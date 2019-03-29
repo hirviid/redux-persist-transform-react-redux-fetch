@@ -1,6 +1,6 @@
 {
   "name": "redux-persist-transform-react-redux-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-redux-fetch transform for redux-persist",
   "main": "lib/index.js",
   "typings": "index.d.ts",
